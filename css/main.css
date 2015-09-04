@@ -7,4 +7,15 @@ body{
 }
 a{
     text-decoration: none;
+    color: #00f3f5;
+}
+li{
+   list-style-type:none;
+}
+header{
+    width: 100%;
+    text-align: center;
+    background: crimson;
+    font-size: 25px;
+    padding: 10px;
 }
